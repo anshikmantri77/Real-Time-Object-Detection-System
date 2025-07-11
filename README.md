@@ -30,13 +30,6 @@ A Python-based system that captures live video from a webcam, detects **Humans**
 | Email Alerts   | SMTP (Gmail)                 |
 
 ---
-
-## 📸 Sample Output
-
-<img src="sample_output.jpg" alt="Detection Screenshot" width="500"/>
-
----
-
 ## 🏗️ Project Structure
 
 ```
